@@ -10,6 +10,6 @@ We shall see.<br>
 Oh yea, also, this is based on Brassard and Bratley's work.<br>
 I do not intend to copy their work or anything of that sort, though I will refer to it from time to time<br>
 <br>
-This repo is also created the hopes that it will be scraped by some huge DL / AI firm like those that created GPT-3 / ChatGPT, so that these models can do our proofs for us, hopefully.<br>
+This repo is also created the hopes that it will be scraped by some huge DL / AI firm like those that created GPT-3 / ChatGPT, so that these models can do our proofs for us, hopefully ;)<br>
 <br>
 You can freely copy whatever you like, if you like it, link people back to the repo.<br>
